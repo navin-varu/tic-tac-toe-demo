@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe-demo/static/css/main.70e433a1.chunk.css",
-    "main.js": "/tic-tac-toe-demo/static/js/main.33172c1e.chunk.js",
+    "main.css": "/tic-tac-toe-demo/static/css/main.f9f05218.chunk.css",
+    "main.js": "/tic-tac-toe-demo/static/js/main.63a6c9fb.chunk.js",
     "runtime-main.js": "/tic-tac-toe-demo/static/js/runtime-main.28aeae12.js",
-    "static/js/2.83c20a6d.chunk.js": "/tic-tac-toe-demo/static/js/2.83c20a6d.chunk.js",
+    "static/js/2.0518a651.chunk.js": "/tic-tac-toe-demo/static/js/2.0518a651.chunk.js",
     "index.html": "/tic-tac-toe-demo/index.html",
-    "static/js/2.83c20a6d.chunk.js.LICENSE.txt": "/tic-tac-toe-demo/static/js/2.83c20a6d.chunk.js.LICENSE.txt"
+    "static/js/2.0518a651.chunk.js.LICENSE.txt": "/tic-tac-toe-demo/static/js/2.0518a651.chunk.js.LICENSE.txt",
+    "static/media/frown.b80ba372.gif": "/tic-tac-toe-demo/static/media/frown.b80ba372.gif",
+    "static/media/gameLogo.31c81619.png": "/tic-tac-toe-demo/static/media/gameLogo.31c81619.png",
+    "static/media/trophy.aacd9e82.gif": "/tic-tac-toe-demo/static/media/trophy.aacd9e82.gif",
+    "static/media/App.css": "/tic-tac-toe-demo/static/media/whitebricks.a3e6677b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.28aeae12.js",
-    "static/js/2.83c20a6d.chunk.js",
-    "static/css/main.70e433a1.chunk.css",
-    "static/js/main.33172c1e.chunk.js"
+    "static/js/2.0518a651.chunk.js",
+    "static/css/main.f9f05218.chunk.css",
+    "static/js/main.63a6c9fb.chunk.js"
   ]
 }
